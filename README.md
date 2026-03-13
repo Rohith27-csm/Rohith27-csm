@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Rohith Sagar
 
-<!--
-**Rohith27-csm/Rohith27-csm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student  
+💻 Interested in AI, Machine Learning and Data Science  
+🚀 Passionate about building real-world AI solutions  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python
+- Machine Learning
+- Deep Learning
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+🌊 AI Flood Detection using Satellite Imagery  
+🧠 Alzheimer’s Disease Classification using GAN  
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/gunti-rohith-sagar-652521256/  
+GitHub: https://github.com/Rohith27-csm
